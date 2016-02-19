@@ -4,7 +4,18 @@ body{
   text-align: center;
 }
 
-#header{
+.header{
+text-align: justify;
+}
+
+.header img{
+  padding-right: 10px;
   postion: relative;
-  top: 
+  top: 20px;
+  right: 200px;
+}
+
+.header h4{
+  font-family: 'Lobster', cursive;
+  font-size: 28px;
 }
